@@ -2,13 +2,13 @@ title: erdna carbon copy
 author: erdna
 email: andre@erdna.cc
 url: https://dre-am.github.io/ # root address of the site
-baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "dre-am" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   internet root for all things related to the author of this page
 
 permalink: /:slug.html
 
-favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+favicon: "favicon.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
 #theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
