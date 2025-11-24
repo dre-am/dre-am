@@ -55,8 +55,10 @@ entries:
     entries:
       - title: lamaa
         url: https://lamaa.org
-      - title: talk
+      - title: talk I
         url: https://youtu.be/Ma-gyy-rm0Q
+      - title: talk II
+        url: https://www.youtube.com/watch?v=aRT_FYQ9OBA
       - title: work
         url: https://virtuleap.com/
       - title: link
